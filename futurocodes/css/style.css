@@ -1,0 +1,33 @@
+.sectionHeader{
+    display: flex;
+    background-color: #86BC24;
+}
+.logo{
+    width: 15%;
+}
+.imglogo{
+    width: 100%;
+}
+.titleHeader{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imgCarousel{
+    width: 100%;
+}
+h2{
+    text-align: center;
+    color: #86BC24;
+}
+.duoImgLanguages{
+    display: flex;
+    justify-content: space-around;
+}
+.imgLanguages{
+    width: 100px;
+}
+.imgLanguages img{
+    width: 100%;
+}
